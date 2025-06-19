@@ -23,5 +23,7 @@ public class DataDiri {
         System.out.println("Alamat  :" + mahasiswa1.Alamat);
         System.out.println("Hobi    :" + mahasiswa1.Hobi);
         System.out.println("Umur    :" + mahasiswa1.Umur);
+        
+        Mahasiswa mahasiswa2 = new Mahasiswa();
     }
 }
